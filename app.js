@@ -25,7 +25,9 @@ function purchasePhone() {
     var accessories = 0;
 
 	while (total < bank_balance) {
-		// todo
+		break;
 	}
 	printAmount(total);
 }
+
+purchasePhone();

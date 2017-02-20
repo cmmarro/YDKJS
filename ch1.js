@@ -19,5 +19,13 @@ function calculateFinalPurchaseAmount(amt) {
 
 function purchasePhone() {
 	// purchase phones and accessories until out of money
-	// TODO
+	var total = 0;
+    var subTotal = 0;
+    var phones = 0;
+    var accessories = 0;
+
+	while (total < bank_balance) {
+		// todo
+	}
+	printAmount(total);
 }

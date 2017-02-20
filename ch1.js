@@ -1,5 +1,7 @@
 const TAX_RATE = 0.08;
-var phonePrice = 99.99;
-var accessoryPrice = 9.99;
-var spendingThreshold = 150;
-var bankAccount = 1000;
+const PHONE_PRICE = 99.99;
+const ACCESSORY_PRICE = 9.99;
+const SPENDING_THRESHOLD = 150;
+
+var bank_balance = 302.13;
+
